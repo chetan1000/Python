@@ -1,0 +1,15 @@
+nums = list(range(1, 11))
+print("Numbers: ", nums)
+
+even = lambda num: num % 2 == 0
+
+print(even(5))
+print(even(10000))
+
+                                # applying filter on nums for even
+result = filter(even, nums)
+print("Result using filter - even: ", result)
+print(type(result))
+
+print(dict(result))           # it shows error, cannot convert dictionary update sequence element #0 to a sequence
+print(set(result))
