@@ -1,1 +1,1 @@
-it cnsists of beginer and intermediate level of python projcets.
+it consists of beginner and intermediate level python projects.
