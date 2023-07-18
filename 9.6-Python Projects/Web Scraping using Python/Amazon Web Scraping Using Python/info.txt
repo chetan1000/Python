@@ -1,0 +1,5 @@
+In this project, how to scrape data from Amazon using BeautifulSoup and Requests. 
+
+
+
+Find Your User-Agent: https://httpbin.org/get
